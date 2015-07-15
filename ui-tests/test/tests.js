@@ -50,7 +50,7 @@ describe('Live testing', function() {
         name: 'homepage',
         exclude:
           [
-            '.c1 a',
+            '.c1 ul a',
             '.c2 a',
             '#nearby-events a',
           ],
